@@ -1,4 +1,4 @@
-# 🌍 Sales Performance & Market Expansion For A Global Superstore | Power BI
+# 🌍 Global Retail Sales Performance & Market Expansion Analysis | Power BI
 
 ![background](https://github.com/user-attachments/assets/c712d9dd-90e5-4347-92d6-5d5a1971d253)
 
